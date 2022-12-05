@@ -1,1 +1,2 @@
 # FirstOne
+How SOLID ??
