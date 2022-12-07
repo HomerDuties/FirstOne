@@ -1,2 +1,2 @@
 # FirstOne
-How SOLID ??
+How get your Java SOLID ??
